@@ -49,7 +49,7 @@ Aspiring Software Engineer with a strong foundation in web development, object o
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/alwaysp24?border=0&radius=20&name=Sagar%20Hegde"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/sagar-hegde?border=0&radius=20&name=Sagar%20Hegde"/>
 </p>
 
 
