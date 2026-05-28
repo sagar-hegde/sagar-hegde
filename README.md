@@ -29,7 +29,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sagar-hegde" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fsagarhegde&subtitle=@sagar-hegde&size=square" alt="sagarhegde GitHub">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fsagarhegde&subtitle=@Sagar+Hegde&size=square" alt="sagarhegde GitHub">
       </a>
     </td>
   </tr>
